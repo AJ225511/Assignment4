@@ -11,10 +11,10 @@ public class LeastKnowledge {
             return address;
         }
     }
-    class Example {
-        public String getStreetName(Employee emplyee) {
+   // class Example {
+       // public String getStreetName(Employee emplyee) {
            // employee.getAddress();
-        }
-    }
+       // }
+   // }
 
 }
